@@ -1,3 +1,3 @@
 Hola mundo!
-Segunda linea del texto. Hola raul, como estas?
+del texto. Hola raul, como estas?
 
